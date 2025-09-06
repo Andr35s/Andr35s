@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Andr35s or Andres
-- 👀 I’m interested in ... learning about coding
-- 🌱 I’m currently learning ... computer science in high school
+- 👀 I’m interested inlearning about coding
+- 🌱 I’m currently learning computer science in Carleton University 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: andarucas@gmail.com | 705 618 7295
+
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ... 
 
 <!---
